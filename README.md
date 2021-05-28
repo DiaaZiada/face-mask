@@ -31,11 +31,14 @@ loss graph
 
 ## Preformance 
 **LFFD** : ~ **3** FPS
+
 **Face Mask detection** ~ **130** FPS
+
 **Resolution** :  854x480
 
 ## hardware specs
 CPU: Inter Core i7 7th gen 4 cores
+
 RAM: 8GB
 
 ## Results
