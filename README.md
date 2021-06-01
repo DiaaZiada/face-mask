@@ -7,6 +7,8 @@ so I decided to create one
 
 you can find the codes from [here](https://github.com/DiaaZiada/face-mask/tree/face-maskV2/MaskTheFace)
 
+you can find the full generated dataset from [here](https://drive.google.com/drive/folders/1u5seFz2lsbkjbXoE1uzS6eF27m1xDpy5)
+
 and here some examples from the dataset
 
 ![image](https://github.com/DiaaZiada/face-mask/blob/face-maskV2/images/0.jpg)
